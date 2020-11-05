@@ -4,7 +4,7 @@
 The purpose of the analysis is to see how a bike share business in New York might be modeled in Des Moines by looking at utilization trends, and demographic comparisons.  
 
 ## Results: 
-
+Graph summaries in the tableau story
 [Link to dashboard](https://public.tableau.com/profile/andrew.sanchez8518#!/vizhome/NYCStory/NYCStory?publish=yes)
 
 ## Summary:
